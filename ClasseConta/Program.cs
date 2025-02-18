@@ -19,7 +19,7 @@ internal class Program
         Console.WriteLine("Saldo: " + objetoConta.saldo);
         Console.WriteLine("Limite: " + objetoConta.limite);
 
-        /*declarar e instanciar objeto
+        //declarar e instanciar objeto
         Conta c1 = new Conta();
         System.Console.Write("Qual o numero da conta?: ");
         c1.numero = Convert.ToInt32(Console.ReadLine());
@@ -30,7 +30,7 @@ internal class Program
 
         Console.WriteLine("Numero: " + c1.numero);
         Console.WriteLine("Saldo: " + c1.saldo);
-        Console.WriteLine("Limite: " + c1.limite); */
+        Console.WriteLine("Limite: " + c1.limite);
 
         // instanciar classe funcionario
 
@@ -46,6 +46,7 @@ internal class Program
         f1.salario = Convert.ToDouble(Console.ReadLine());
 
         f1.MostrarAtributos();
+        System.Console.WriteLine("Joao");
 
     }
 }
