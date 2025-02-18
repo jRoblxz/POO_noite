@@ -47,6 +47,7 @@ internal class Program
 
         f1.MostrarAtributos();
         System.Console.WriteLine("Teste em casa");
+        System.Console.WriteLine("denovo");
 
     }
 }
