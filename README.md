@@ -1,2 +1,2 @@
 # POO_Noite
- AUlas de POO
+ Repositório dedicado ao arquivamento das Aulas de POO na Fatec.
