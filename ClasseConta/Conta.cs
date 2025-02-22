@@ -10,19 +10,27 @@ namespace ClasseConta
         //declarar atributos (variaveis)
         public int numero;
 
-        public double saldo;
+        public string titular;
 
-        public double limite;
+        public double saldo;
 
         //declarar métodos/funções
 
-        public void Sacar()
+        public void Sacar(double valorSaque)
         {
-
+            this.saldo -= valorSaque;
         }
 
-        public void Depositar()
+        public void Depositar(double valorDeposito)
         {
+            this.saldo += valorDeposito;
+
+        }
+        public void MostrarAtributos()
+        {
+            Console.WriteLine("Numero: " + this.numero +
+                            "\t Titular: " + this.titular +
+                            "\t Saldo: " + this.saldo);
 
         }
     }
