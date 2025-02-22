@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\aluno\\Documents\\GitHub\\POO_noite\\ClasseConta\\ClasseConta.csproj": {}
+    "C:\\Users\\aluno\\Documents\\GitHub\\POO_noite\\ClasseConta\\ClasseConta.csproj": {}
   },
   "projects": {
-    "c:\\Users\\aluno\\Documents\\GitHub\\POO_noite\\ClasseConta\\ClasseConta.csproj": {
+    "C:\\Users\\aluno\\Documents\\GitHub\\POO_noite\\ClasseConta\\ClasseConta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\aluno\\Documents\\GitHub\\POO_noite\\ClasseConta\\ClasseConta.csproj",
+        "projectUniqueName": "C:\\Users\\aluno\\Documents\\GitHub\\POO_noite\\ClasseConta\\ClasseConta.csproj",
         "projectName": "ClasseConta",
-        "projectPath": "c:\\Users\\aluno\\Documents\\GitHub\\POO_noite\\ClasseConta\\ClasseConta.csproj",
+        "projectPath": "C:\\Users\\aluno\\Documents\\GitHub\\POO_noite\\ClasseConta\\ClasseConta.csproj",
         "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\aluno\\Documents\\GitHub\\POO_noite\\ClasseConta\\obj\\",
+        "outputPath": "C:\\Users\\aluno\\Documents\\GitHub\\POO_noite\\ClasseConta\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"

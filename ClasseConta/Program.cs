@@ -19,7 +19,7 @@ internal class Program
         double ValorSaque = 500;
         objetoConta.Sacar(ValorSaque); //ValorSaque é um argumento
         objetoConta.MostrarAtributos();
-        System.Console.WriteLine("\n =================== \n");
+        Separador();
 /*
         //declarar e instanciar objeto
         Conta c1 = new Conta();
@@ -41,11 +41,18 @@ internal class Program
             c1.MostrarAtributos();
         }
         System.Console.WriteLine("\n =================== \n");*/
-
+        System.Console.WriteLine("\n");
         Conta c2 = new Conta();
         c2.MostrarAtributos();
         c2.Depositar(200);
         c2.MostrarAtributos();
 
+    }
+    private static void Separador()
+    {
+        for (int i = 0; i < 30; i++)
+        {
+            System.Console.Write("=");            
+        }
     }
 }
