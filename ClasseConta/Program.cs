@@ -11,43 +11,48 @@ internal class Program
 
         //manipulação do objeto
         objetoConta.numero = 101;
-        objetoConta.saldo = 100;
-        objetoConta.limite = 10;
-
+        objetoConta.titular = "João";
+        objetoConta.saldo = 1000;
         //exibindo os valores do objeto
-        Console.WriteLine("Numero: " + objetoConta.numero);
-        Console.WriteLine("Saldo: " + objetoConta.saldo);
-        Console.WriteLine("Limite: " + objetoConta.limite);
-
+        objetoConta.MostrarAtributos();
+        //usando o método Sacar() e exibindo dados novamento
+        double ValorSaque = 500;
+        objetoConta.Sacar(ValorSaque); //ValorSaque é um argumento
+        objetoConta.MostrarAtributos();
+        Separador();
+/*
         //declarar e instanciar objeto
         Conta c1 = new Conta();
         System.Console.Write("Qual o numero da conta?: ");
         c1.numero = Convert.ToInt32(Console.ReadLine());
-        System.Console.Write("Qual o saldo da conta?: ");
-        c1.saldo = Convert.ToInt32(Console.ReadLine());
-        System.Console.Write("Qual o limite da conta?: ");
-        c1.limite = Convert.ToInt32(Console.ReadLine());
+        System.Console.Write("Qual o Titular da conta?: ");
+        c1.titular = Console.ReadLine();
+        System.Console.Write("Qual o Saldo da conta?: ");
+        c1.saldo = Convert.ToDouble(Console.ReadLine());
+        c1.MostrarAtributos();
+        System.Console.WriteLine("Você quer sacar dinheiro? S/N: ");
+        string op = Console.ReadLine();
 
-        Console.WriteLine("Numero: " + c1.numero);
-        Console.WriteLine("Saldo: " + c1.saldo);
-        Console.WriteLine("Limite: " + c1.limite);
+        if (op == "S")
+        {
+            System.Console.WriteLine("Qual o valor? ");
+            double ValorSaque2 = Convert.ToDouble(Console.ReadLine());
+            c1.Sacar(ValorSaque2);
+            c1.MostrarAtributos();
+        }
+        System.Console.WriteLine("\n =================== \n");*/
+        System.Console.WriteLine("\n");
+        Conta c2 = new Conta();
+        c2.MostrarAtributos();
+        c2.Depositar(200);
+        c2.MostrarAtributos();
 
-        // instanciar classe funcionario
-
-        Funcionario f1;
-
-        f1 = new Funcionario();
-
-        System.Console.Write("Qual o codigo do funcionario?: ");
-        f1.codigo = Convert.ToInt32(Console.ReadLine());
-        System.Console.Write("Qual o nome do funcionario?: ");
-        f1.nome = Console.ReadLine();
-        System.Console.Write("Qual o salario do funcionario?: ");
-        f1.salario = Convert.ToDouble(Console.ReadLine());
-
-        f1.MostrarAtributos();
-        System.Console.WriteLine("Teste em casa");
-        System.Console.WriteLine("denovo");
-
+    }
+    private static void Separador()
+    {
+        for (int i = 0; i < 30; i++)
+        {
+            System.Console.Write("=");            
+        }
     }
 }
