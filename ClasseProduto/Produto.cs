@@ -27,7 +27,10 @@ namespace ClasseProduto
         }
         public void MostrarAtributos()
         {
-            System.Console.WriteLine("Nome: " + nome_prod + "\nQuantidade: " + qntd + "\nPreço: " + preco + "\nValor Total: " + ValorTotalEstoque());
+            System.Console.WriteLine("Nome: " + nome_prod + 
+                                    "\nQuantidade: " + qntd + 
+                                    "\nPreço: " + preco + 
+                                    "\nValor Total: " + ValorTotalEstoque());
         }
 
 

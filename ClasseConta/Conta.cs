@@ -9,8 +9,7 @@ namespace ClasseConta
     {
         //declarar atributos (variaveis)
         public int numero;
-
-        public string titular;
+        public string titular = string.Empty; //ou public string? titular;
 
         public double saldo;
 
@@ -32,6 +31,11 @@ namespace ClasseConta
                             "\t Titular: " + this.titular +
                             "\t Saldo: " + this.saldo);
 
+        }
+        public void Transferir(double valorTransf, Conta objetoDestino) //conta é o tipo
+        {
+            saldo -= valorTransf; //c1
+            objetoDestino.saldo += valorTransf; //c2
         }
     }
 }

@@ -16,6 +16,10 @@ namespace ClasseFuncionario
             System.Console.WriteLine("Codigo: " + codigo +
                                     "\nNome: " + nome +
                                     "\nSalario: " + salario);
+        }
+        public void CalcularAumento(double porcentagem)
+        {
+            salario += salario * porcentagem / 100;
         }       
     }
 }

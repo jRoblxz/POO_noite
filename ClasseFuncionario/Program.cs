@@ -5,9 +5,11 @@ internal class Program
     {
         Funcionario f1;
         f1 = new Funcionario();
-        f1.codigo = 101;
+        f1.codigo = 1;
         f1.nome = "João";
-        f1.salario = 199.9;
+        f1.salario = 1000;
         f1.Exibir();
+        f1.CalcularAumento(3.5);
+        System.Console.WriteLine("Novo salario: " +f1.salario);
     }
 }

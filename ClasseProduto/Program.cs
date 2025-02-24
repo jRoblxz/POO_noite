@@ -18,33 +18,7 @@ internal class Program
         p2.qntd = Convert.ToInt32(Console.ReadLine());
         Console.Write("Qual a preco? ");
         p2.preco = Convert.ToDouble(Console.ReadLine());
-        p2.MostrarAtributos();
-
-
-    /*
-        do
-        {
-            int = op;
-
-            System.Console.WriteLine("Escolha uma opção: ");
-            System.Console.WriteLine("1- Adicionar Produto");
-            System.Console.WriteLine("2- Remover Produto");
-            System.Console.WriteLine("3- Ver atributos de um produto");
-            op = Console.ToInt32.Readline();
-
-            switch (op)
-            {
-                case 1:
-                    p2
-
-                
-                default:
-            }
-
-        } while (int != 4);
-
-        */
-        
+        p2.MostrarAtributos();        
 
     }
 }

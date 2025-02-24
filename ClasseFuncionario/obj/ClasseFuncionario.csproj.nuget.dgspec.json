@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aluno\\Documents\\GitHub\\POO_noite\\ClasseFuncionario\\ClasseFuncionario.csproj": {}
+    "C:\\Users\\aluno\\Documents\\GitHub\\teste\\ClasseFuncionario\\ClasseFuncionario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aluno\\Documents\\GitHub\\POO_noite\\ClasseFuncionario\\ClasseFuncionario.csproj": {
+    "C:\\Users\\aluno\\Documents\\GitHub\\teste\\ClasseFuncionario\\ClasseFuncionario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aluno\\Documents\\GitHub\\POO_noite\\ClasseFuncionario\\ClasseFuncionario.csproj",
+        "projectUniqueName": "C:\\Users\\aluno\\Documents\\GitHub\\teste\\ClasseFuncionario\\ClasseFuncionario.csproj",
         "projectName": "ClasseFuncionario",
-        "projectPath": "C:\\Users\\aluno\\Documents\\GitHub\\POO_noite\\ClasseFuncionario\\ClasseFuncionario.csproj",
+        "projectPath": "C:\\Users\\aluno\\Documents\\GitHub\\teste\\ClasseFuncionario\\ClasseFuncionario.csproj",
         "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aluno\\Documents\\GitHub\\POO_noite\\ClasseFuncionario\\obj\\",
+        "outputPath": "C:\\Users\\aluno\\Documents\\GitHub\\teste\\ClasseFuncionario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
