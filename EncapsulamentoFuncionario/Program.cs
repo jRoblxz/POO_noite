@@ -17,6 +17,6 @@ internal class Program
         Console.WriteLine("Nome: " + f1.Nome);//o método get é chamado
         Console.WriteLine("Código: " + f1.Codigo);//get
         Console.WriteLine("Salário: " + f1.Salario); //
-        //teste
+        f1.Mostrar();
     }
 }
