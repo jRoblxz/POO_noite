@@ -8,7 +8,9 @@ namespace EncapsulamentoProduto
     public class Produto
     {
         private int codigo; //atributo
-        public int Codigo //propriedade 
+        private string nome = string.Empty; //atributo
+        private double preco; //atributo
+        public int Codigo //propriedade produto
         {
             get { return codigo; }
             set { 
@@ -18,17 +20,19 @@ namespace EncapsulamentoProduto
                     System.Console.WriteLine("Codigo Inválido");
                 }
         }
-        private string nome = string.Empty; //atributo
         public string Nome //propriedade Produto  
         {
             get { return nome.ToUpper(); }
             set { nome = value; }
         }
-        private double preco; //atributo
         public double Preco //propriedade Produto
         {
             get { return preco; }
             set { preco = value; }
+        }
+
+        public void AdicionarProduto(int qtde){
+            
         }
     }//class
 }//namespace
