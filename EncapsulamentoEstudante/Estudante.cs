@@ -20,14 +20,14 @@ namespace EncapsulamentoEstudante
                 }
         }
 
-        public bool EstaAprovado(int nota){
-            return nota >= 6;
+        public bool EstaAprovado(){
+            return nota >= 6;;
         }
         public void ExibirInfos()
         {
-            System.Console.WriteLine("Nome: " + Nome + 
-                                    "\nNota: " + Nota + 
-                                    "\nStatus: " + EstaAprovado(Nota));
+            Console.WriteLine("Nome: " + Nome +
+                              "\tNota: " + Nota +           //se for true   se for false
+                              "\tStatus: " + (EstaAprovado() ? "Aprovado" : "Reprovado"));
         }
         
     }
