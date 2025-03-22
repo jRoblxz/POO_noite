@@ -21,7 +21,7 @@ namespace ContrutorConta
             Numero = numero;
             Contador++;
         }
-        public Conta(int numero, string nome){ //new Conta(Joao);
+        public Conta(int numero, string nome){ //new Conta(12, Joao);
             //Propriedade/atributo   = parametro
             Numero = numero;
             Titular = nome;
