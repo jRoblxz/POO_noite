@@ -21,7 +21,7 @@ namespace EncapsulamentoEstudante
         }
 
         public bool EstaAprovado(){
-            return nota >= 6;;
+            return nota >= 6;
         }
         public void ExibirInfos()
         {

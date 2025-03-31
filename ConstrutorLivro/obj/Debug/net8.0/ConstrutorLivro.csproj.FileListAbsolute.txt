@@ -1,0 +1,15 @@
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\ConstrutorLivro\obj\Debug\net8.0\ConstrutorLivro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\ConstrutorLivro\obj\Debug\net8.0\ConstrutorLivro.AssemblyInfoInputs.cache
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\ConstrutorLivro\obj\Debug\net8.0\ConstrutorLivro.AssemblyInfo.cs
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\ConstrutorLivro\obj\Debug\net8.0\ConstrutorLivro.csproj.CoreCompileInputs.cache
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\ConstrutorLivro\obj\Debug\net8.0\ConstrutorLivro.sourcelink.json
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\ConstrutorLivro\bin\Debug\net8.0\ConstrutorLivro.exe
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\ConstrutorLivro\bin\Debug\net8.0\ConstrutorLivro.deps.json
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\ConstrutorLivro\bin\Debug\net8.0\ConstrutorLivro.runtimeconfig.json
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\ConstrutorLivro\bin\Debug\net8.0\ConstrutorLivro.dll
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\ConstrutorLivro\bin\Debug\net8.0\ConstrutorLivro.pdb
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\ConstrutorLivro\obj\Debug\net8.0\ConstrutorLivro.dll
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\ConstrutorLivro\obj\Debug\net8.0\refint\ConstrutorLivro.dll
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\ConstrutorLivro\obj\Debug\net8.0\ConstrutorLivro.pdb
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\ConstrutorLivro\obj\Debug\net8.0\ConstrutorLivro.genruntimeconfig.cache
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\ConstrutorLivro\obj\Debug\net8.0\ref\ConstrutorLivro.dll
