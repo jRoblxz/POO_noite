@@ -8,15 +8,17 @@ namespace AgregacaoVenda
     public class Comprador
     {
         public double Verba { get; set; }
-
         public Comprador(double verba)
         {
             Verba = verba;
         }
-
+        public void DescontarDaVerba(double preco)
+        {
+            Verba -= preco;
+        }
         public void MostrarAtributos()
         {
-            System.Console.WriteLine("Verba: " + Verba);
+            Console.WriteLine($"Valor da verba {Verba:c}");
         }
     }
 }

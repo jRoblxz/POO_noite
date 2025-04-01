@@ -7,37 +7,24 @@ namespace AgregacaoVenda
 {
     public class Produto
     {
-        public int Codigo { get; private set; }
-        private static int contCodigo = 500;
-        private string nome;
-        private double preco;
-        public string Nome
+        public int Codigo { get; set; }
+        public string Nome { get; set; }
+        public double Preco { get; set; }
+        private static int Numero { get; set; }
+        static Produto()
         {
-            get { return nome; }
-            set { nome = value; }
+            Numero = 500;
         }
-        public double Preco
+        public Produto(string nome, double preco)
         {
-            get { return preco; }
-            set 
-            { 
-                if (value <= 0 )
-                    System.Console.WriteLine("Valor Inválido");
-                else 
-                    preco = value;
-            }
-        }
-        public Produto(string nom, double pre)
-        {
-            Codigo = contCodigo++;
-            Nome = nom;
-            Preco = pre;
-            
+            Numero ++;
+            Codigo = Numero;
+            Nome = nome;
+            Preco = preco;            
         }
         public void MostrarAtributos()
         {
-            System.Console.WriteLine($"Código: {Codigo} | Nome: {Nome} | Preço {preco}");
+            Console.WriteLine($"Código {Codigo} \tNome {Nome} \tPreço {Preco:c}");
         }
-
     }
 }
