@@ -7,11 +7,14 @@ namespace AgregacaoVenda
 {
     public class Vendedor
     {
-        public double Comissao { get; set; }
-
+        public double Comissao { get; private set; }
+        public void RegistrarVenda(double valorVenda)
+        {
+            Comissao += valorVenda * 0.02;
+        }
         public void MostrarAtributos()
         {
-            System.Console.WriteLine("Comissão: " + Comissao);
+            System.Console.WriteLine($"Comissão acumulada: {Comissao:c}");
         }
     }
 }

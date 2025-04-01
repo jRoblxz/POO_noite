@@ -7,20 +7,15 @@ namespace AgregacaoVenda
 {
     public class Produto
     {
-        public static int Codigo = 500;
-        private string Nome;
+        public int Codigo { get; private set; }
+        private static int contCodigo = 500;
+        private string nome;
+        private double preco;
         public string Nome
         {
-            get { return Nome; }
-            set 
-            { 
-                if (string.IsNullOrEmpty(value))
-                    System.Console.WriteLine("Nome inválido");
-                Nome = value; 
-            }
+            get { return nome; }
+            set { nome = value; }
         }
-        
-        private double preco;
         public double Preco
         {
             get { return preco; }
@@ -28,18 +23,17 @@ namespace AgregacaoVenda
             { 
                 if (value <= 0 )
                     System.Console.WriteLine("Valor Inválido");
-                preco = value;
+                else 
+                    preco = value;
             }
         }
-        
         public Produto(string nom, double pre)
         {
-            Codigo += 1;
-            Nome = Nome;
+            Codigo = contCodigo++;
+            Nome = nom;
             Preco = pre;
             
         }
-
         public void MostrarAtributos()
         {
             System.Console.WriteLine($"Código: {Codigo} | Nome: {Nome} | Preço {preco}");

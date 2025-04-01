@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aluno\\Documents\\GitHub\\teste\\ClasseConta\\ClasseConta.csproj": {}
+    "c:\\Users\\joaop\\OneDrive\\Documentos\\GitHub\\POO_noite\\ClasseConta\\ClasseConta.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aluno\\Documents\\GitHub\\teste\\ClasseConta\\ClasseConta.csproj": {
+    "c:\\Users\\joaop\\OneDrive\\Documentos\\GitHub\\POO_noite\\ClasseConta\\ClasseConta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aluno\\Documents\\GitHub\\teste\\ClasseConta\\ClasseConta.csproj",
+        "projectUniqueName": "c:\\Users\\joaop\\OneDrive\\Documentos\\GitHub\\POO_noite\\ClasseConta\\ClasseConta.csproj",
         "projectName": "ClasseConta",
-        "projectPath": "C:\\Users\\aluno\\Documents\\GitHub\\teste\\ClasseConta\\ClasseConta.csproj",
-        "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aluno\\Documents\\GitHub\\teste\\ClasseConta\\obj\\",
+        "projectPath": "c:\\Users\\joaop\\OneDrive\\Documentos\\GitHub\\POO_noite\\ClasseConta\\ClasseConta.csproj",
+        "packagesPath": "C:\\Users\\joaop\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\joaop\\OneDrive\\Documentos\\GitHub\\POO_noite\\ClasseConta\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\joaop\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
