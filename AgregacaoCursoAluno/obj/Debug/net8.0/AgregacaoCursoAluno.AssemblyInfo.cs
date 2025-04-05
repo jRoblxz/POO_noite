@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgregacaoCursoAluno")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a394417d7d282c2a30bad3c2eb55f7ad3ac5c2f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1b98492fc8ef19679300d59cee1f101ccb3578e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgregacaoCursoAluno")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgregacaoCursoAluno")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

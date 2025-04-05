@@ -7,12 +7,26 @@ namespace AgregacaoCursoAluno
 {
     public class Aluno
     {
-        public int Matricula { get; set; }
+        private int matricula;
+        public int Matricula
+        {
+            get { return matricula; }
+            set 
+            { 
+                if (value <= 0)
+                {
+                    System.Console.WriteLine("Numero de matricula invalido"); 
+                    return;
+                }
+                matricula = value;
+            }
+        }
+        
         public string? Nome { get; set; }
 
         public Aluno(int matricula, string nome)
         {
-            Matricula = matricula;
+            this.Matricula = matricula;
             Nome = nome;
         }  
 
