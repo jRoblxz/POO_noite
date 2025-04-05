@@ -1,0 +1,15 @@
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\ComposicaoLivroAutor\obj\Debug\net8.0\ComposicaoLivroAutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\ComposicaoLivroAutor\obj\Debug\net8.0\ComposicaoLivroAutor.AssemblyInfoInputs.cache
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\ComposicaoLivroAutor\obj\Debug\net8.0\ComposicaoLivroAutor.AssemblyInfo.cs
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\ComposicaoLivroAutor\obj\Debug\net8.0\ComposicaoLivroAutor.csproj.CoreCompileInputs.cache
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\ComposicaoLivroAutor\obj\Debug\net8.0\ComposicaoLivroAutor.sourcelink.json
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\ComposicaoLivroAutor\bin\Debug\net8.0\ComposicaoLivroAutor.exe
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\ComposicaoLivroAutor\bin\Debug\net8.0\ComposicaoLivroAutor.deps.json
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\ComposicaoLivroAutor\bin\Debug\net8.0\ComposicaoLivroAutor.runtimeconfig.json
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\ComposicaoLivroAutor\bin\Debug\net8.0\ComposicaoLivroAutor.dll
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\ComposicaoLivroAutor\bin\Debug\net8.0\ComposicaoLivroAutor.pdb
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\ComposicaoLivroAutor\obj\Debug\net8.0\ComposicaoLivroAutor.dll
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\ComposicaoLivroAutor\obj\Debug\net8.0\refint\ComposicaoLivroAutor.dll
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\ComposicaoLivroAutor\obj\Debug\net8.0\ComposicaoLivroAutor.pdb
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\ComposicaoLivroAutor\obj\Debug\net8.0\ComposicaoLivroAutor.genruntimeconfig.cache
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\ComposicaoLivroAutor\obj\Debug\net8.0\ref\ComposicaoLivroAutor.dll
