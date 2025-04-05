@@ -1,0 +1,15 @@
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\AgregacaoCursoAluno\obj\Debug\net8.0\AgregacaoCursoAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\AgregacaoCursoAluno\obj\Debug\net8.0\AgregacaoCursoAluno.AssemblyInfoInputs.cache
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\AgregacaoCursoAluno\obj\Debug\net8.0\AgregacaoCursoAluno.AssemblyInfo.cs
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\AgregacaoCursoAluno\obj\Debug\net8.0\AgregacaoCursoAluno.csproj.CoreCompileInputs.cache
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\AgregacaoCursoAluno\obj\Debug\net8.0\AgregacaoCursoAluno.sourcelink.json
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\AgregacaoCursoAluno\bin\Debug\net8.0\AgregacaoCursoAluno.exe
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\AgregacaoCursoAluno\bin\Debug\net8.0\AgregacaoCursoAluno.deps.json
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\AgregacaoCursoAluno\bin\Debug\net8.0\AgregacaoCursoAluno.runtimeconfig.json
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\AgregacaoCursoAluno\bin\Debug\net8.0\AgregacaoCursoAluno.dll
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\AgregacaoCursoAluno\bin\Debug\net8.0\AgregacaoCursoAluno.pdb
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\AgregacaoCursoAluno\obj\Debug\net8.0\AgregacaoCursoAluno.dll
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\AgregacaoCursoAluno\obj\Debug\net8.0\refint\AgregacaoCursoAluno.dll
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\AgregacaoCursoAluno\obj\Debug\net8.0\AgregacaoCursoAluno.pdb
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\AgregacaoCursoAluno\obj\Debug\net8.0\AgregacaoCursoAluno.genruntimeconfig.cache
+C:\Users\joaop\OneDrive\Documentos\GitHub\POO_noite\AgregacaoCursoAluno\obj\Debug\net8.0\ref\AgregacaoCursoAluno.dll
