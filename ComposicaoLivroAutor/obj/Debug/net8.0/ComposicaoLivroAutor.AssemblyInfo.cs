@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ComposicaoLivroAutor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5e5bdfd9c487fce60508335e714e1c4f12bdba7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1810c4fedbf3dcb89beb9c78be3c42a15f2a2fed")]
 [assembly: System.Reflection.AssemblyProductAttribute("ComposicaoLivroAutor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ComposicaoLivroAutor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

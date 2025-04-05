@@ -38,6 +38,7 @@ namespace ComposicaoLivroAutor
         public void ExibirDados()
         {
             System.Console.WriteLine($"Titulo: {Titulo} \nAno: {Ano}");
+            System.Console.WriteLine("AUTORES");
             foreach (Autor a in VetAutor)
             {
                 a.ExibirDados();
