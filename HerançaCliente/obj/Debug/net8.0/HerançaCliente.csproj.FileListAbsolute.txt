@@ -1,0 +1,15 @@
+C:\Users\aluno\Documents\GitHub\POO_noite\HerançaCliente\bin\Debug\net8.0\HerançaCliente.exe
+C:\Users\aluno\Documents\GitHub\POO_noite\HerançaCliente\bin\Debug\net8.0\HerançaCliente.deps.json
+C:\Users\aluno\Documents\GitHub\POO_noite\HerançaCliente\bin\Debug\net8.0\HerançaCliente.runtimeconfig.json
+C:\Users\aluno\Documents\GitHub\POO_noite\HerançaCliente\bin\Debug\net8.0\HerançaCliente.dll
+C:\Users\aluno\Documents\GitHub\POO_noite\HerançaCliente\bin\Debug\net8.0\HerançaCliente.pdb
+C:\Users\aluno\Documents\GitHub\POO_noite\HerançaCliente\obj\Debug\net8.0\HerançaCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\GitHub\POO_noite\HerançaCliente\obj\Debug\net8.0\HerançaCliente.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\GitHub\POO_noite\HerançaCliente\obj\Debug\net8.0\HerançaCliente.AssemblyInfo.cs
+C:\Users\aluno\Documents\GitHub\POO_noite\HerançaCliente\obj\Debug\net8.0\HerançaCliente.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\GitHub\POO_noite\HerançaCliente\obj\Debug\net8.0\HerançaCliente.sourcelink.json
+C:\Users\aluno\Documents\GitHub\POO_noite\HerançaCliente\obj\Debug\net8.0\HerançaCliente.dll
+C:\Users\aluno\Documents\GitHub\POO_noite\HerançaCliente\obj\Debug\net8.0\refint\HerançaCliente.dll
+C:\Users\aluno\Documents\GitHub\POO_noite\HerançaCliente\obj\Debug\net8.0\HerançaCliente.pdb
+C:\Users\aluno\Documents\GitHub\POO_noite\HerançaCliente\obj\Debug\net8.0\HerançaCliente.genruntimeconfig.cache
+C:\Users\aluno\Documents\GitHub\POO_noite\HerançaCliente\obj\Debug\net8.0\ref\HerançaCliente.dll
