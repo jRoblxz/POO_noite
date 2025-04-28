@@ -8,7 +8,7 @@ namespace HerancaCliente
     public class ClienteFisico : Cliente
     {
         public int Rg { get; set; }
-        public void Mostrar()
+        public override void Mostrar() //feiotp errado de propodito
         {
             Console.WriteLine("Rg: " + Rg);
         }

@@ -8,7 +8,7 @@ namespace HerancaCliente
     public class ClienteJuridico : Cliente
     {
         public int Cnpj { get; set; }
-        public void Mostrar()
+        public override void Mostrar()
         {
             base.Mostrar();//chamar o método Mostra da classe base
             Console.WriteLine("Cnpj: " + Cnpj);

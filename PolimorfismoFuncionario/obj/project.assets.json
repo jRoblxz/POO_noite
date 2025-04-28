@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aluno\\Documents\\GitHub\\POO_noite\\HerancaCliente\\HerancaCliente.csproj",
-      "projectName": "HerancaCliente",
-      "projectPath": "C:\\Users\\aluno\\Documents\\GitHub\\POO_noite\\HerancaCliente\\HerancaCliente.csproj",
+      "projectUniqueName": "C:\\Users\\aluno\\Documents\\GitHub\\POO_noite\\PolimorfismoFuncionario\\PolimorfismoFuncionario.csproj",
+      "projectName": "PolimorfismoFuncionario",
+      "projectPath": "C:\\Users\\aluno\\Documents\\GitHub\\POO_noite\\PolimorfismoFuncionario\\PolimorfismoFuncionario.csproj",
       "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aluno\\Documents\\GitHub\\POO_noite\\HerancaCliente\\obj\\",
+      "outputPath": "C:\\Users\\aluno\\Documents\\GitHub\\POO_noite\\PolimorfismoFuncionario\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace HerancaCliente
 {
-    public class Cliente
+    public class Cliente //super classe, classe base
     {
         protected int codigo;
         protected string? nome;
@@ -20,7 +20,7 @@ namespace HerancaCliente
             get { return nome; }
             set { nome = value; }
         } 
-        public void Mostrar()
+        public virtual void Mostrar()
         {
             Console.WriteLine("Código: " + Codigo +
             "\tNome: " + Nome);
