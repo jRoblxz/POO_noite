@@ -1,0 +1,14 @@
+D:\_20251\POO_noite\AbastratoFuncionario\bin\Debug\net8.0\AbastratoFuncionario.exe
+D:\_20251\POO_noite\AbastratoFuncionario\bin\Debug\net8.0\AbastratoFuncionario.deps.json
+D:\_20251\POO_noite\AbastratoFuncionario\bin\Debug\net8.0\AbastratoFuncionario.runtimeconfig.json
+D:\_20251\POO_noite\AbastratoFuncionario\bin\Debug\net8.0\AbastratoFuncionario.dll
+D:\_20251\POO_noite\AbastratoFuncionario\bin\Debug\net8.0\AbastratoFuncionario.pdb
+D:\_20251\POO_noite\AbastratoFuncionario\obj\Debug\net8.0\AbastratoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\_20251\POO_noite\AbastratoFuncionario\obj\Debug\net8.0\AbastratoFuncionario.AssemblyInfoInputs.cache
+D:\_20251\POO_noite\AbastratoFuncionario\obj\Debug\net8.0\AbastratoFuncionario.AssemblyInfo.cs
+D:\_20251\POO_noite\AbastratoFuncionario\obj\Debug\net8.0\AbastratoFuncionario.csproj.CoreCompileInputs.cache
+D:\_20251\POO_noite\AbastratoFuncionario\obj\Debug\net8.0\AbastratoFuncionario.dll
+D:\_20251\POO_noite\AbastratoFuncionario\obj\Debug\net8.0\refint\AbastratoFuncionario.dll
+D:\_20251\POO_noite\AbastratoFuncionario\obj\Debug\net8.0\AbastratoFuncionario.pdb
+D:\_20251\POO_noite\AbastratoFuncionario\obj\Debug\net8.0\AbastratoFuncionario.genruntimeconfig.cache
+D:\_20251\POO_noite\AbastratoFuncionario\obj\Debug\net8.0\ref\AbastratoFuncionario.dll
