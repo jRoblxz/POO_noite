@@ -3,16 +3,23 @@ internal class Program
 {
     private static void Main(string[] args)
     {
+
         Funcionario f = new Funcionario(1, "Joao", 100);
-        System.Console.WriteLine($"Bonificação: {f.CalcularBonificacao():c}");
+        Secretario s = new Secretario(2, "Pedro", 150);
+        Gerente g = new Gerente(3, "Costa", 200);
+        Diretor d = new Diretor(4, "Roblez", 300);
 
-        Secretario s = new Secretario(2, "Pedro", 100);
-        System.Console.WriteLine($"Bonificação: {s.CalcularBonificacao():c}");
+        GerenciadorBonificacao gerenciador = new GerenciadorBonificacao();
 
-        Gerente g = new Gerente(3, "Costa", 100);
-        System.Console.WriteLine($"Bonificação: {g.CalcularBonificacao():c}");
+        gerenciador.TotalizadorBonificacao(f);
+        gerenciador.TotalizadorBonificacao(s);
+        gerenciador.TotalizadorBonificacao(g);
+        gerenciador.TotalizadorBonificacao(d);
 
-        Diretor d = new Diretor(4, "Roblez", 100);
-        System.Console.WriteLine($"Bonificação: {d.CalcularBonificacao():c}");
+        Console.WriteLine($"Bonificação Funcionário: {f.CalcularBonificacao():c}");
+        Console.WriteLine($"Bonificação Secretário: {s.CalcularBonificacao():c}");
+        Console.WriteLine($"Bonificação Gerente: {g.CalcularBonificacao():c}");
+        Console.WriteLine($"Bonificação Diretor: {d.CalcularBonificacao():c}");
+        Console.WriteLine($"\nTotal de Bonificações: {gerenciador.TotalBonificacao:c}");
     }
 }
