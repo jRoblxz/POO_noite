@@ -12,14 +12,14 @@ internal class Program
         GerenciadorBonificacao gerenciador = new GerenciadorBonificacao();
 
         gerenciador.TotalizadorBonificacao(f);
-        gerenciador.TotalizadorBonificacao(s);
-        gerenciador.TotalizadorBonificacao(g);
-        gerenciador.TotalizadorBonificacao(d);
-
         Console.WriteLine($"Bonificação Funcionário: {f.CalcularBonificacao():c}");
+        gerenciador.TotalizadorBonificacao(s);
         Console.WriteLine($"Bonificação Secretário: {s.CalcularBonificacao():c}");
+        gerenciador.TotalizadorBonificacao(g);
         Console.WriteLine($"Bonificação Gerente: {g.CalcularBonificacao():c}");
+        gerenciador.TotalizadorBonificacao(d);
         Console.WriteLine($"Bonificação Diretor: {d.CalcularBonificacao():c}");
+
         Console.WriteLine($"\nTotal de Bonificações: {gerenciador.TotalBonificacao:c}");
     }
 }
