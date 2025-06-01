@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\giova\\.nuget\\packages\\": {}
+    "C:\\Users\\joaop\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_20251\\POO_noite\\AbstratoFuncionario\\AbstratoFuncionario.csproj",
+      "projectUniqueName": "C:\\Users\\joaop\\OneDrive\\Documentos\\GitHub\\POO_noite\\AbstratoFuncionario\\AbstratoFuncionario.csproj",
       "projectName": "AbstratoFuncionario",
-      "projectPath": "D:\\_20251\\POO_noite\\AbstratoFuncionario\\AbstratoFuncionario.csproj",
-      "packagesPath": "C:\\Users\\giova\\.nuget\\packages\\",
-      "outputPath": "D:\\_20251\\POO_noite\\AbstratoFuncionario\\obj\\",
+      "projectPath": "C:\\Users\\joaop\\OneDrive\\Documentos\\GitHub\\POO_noite\\AbstratoFuncionario\\AbstratoFuncionario.csproj",
+      "packagesPath": "C:\\Users\\joaop\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\joaop\\OneDrive\\Documentos\\GitHub\\POO_noite\\AbstratoFuncionario\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\giova\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\joaop\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -43,7 +43,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -59,12 +60,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.16, 8.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[8.0.16, 8.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.16, 8.0.16]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[8.0.16, 8.0.16]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
